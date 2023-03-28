@@ -80,7 +80,7 @@ function Portfolio() {
           <div className='tab-content-1'>
             <img className='profile-pic' src='./mypic.jpeg' />
             <p className="tab-text">
-              Hello, my name is Nikshith, I am from Udupi,Karnataka, I am a BCA Graduate from St Aloysius College Autonomous Managluru  aspiring to be a Full Stack Developer.
+              Hello, my name is Nikshith, I am from Udupi,Karnataka, I am a BCA Graduate from St Aloysius College Autonomous Mangaluru  aspiring to be a Full Stack Developer.
             </p>
           </div>
         </div>

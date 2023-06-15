@@ -80,7 +80,7 @@ function Portfolio() {
           <div className='tab-content-1'>
             <img className='profile-pic' src='./mypic.jpeg' />
             <p className="tab-text">
-              Hello, my name is Nikshith, I am from Udupi,Karnataka, I am a BCA Graduate from St Aloysius College Autonomous Mangaluru  aspiring to be a Full Stack Developer.
+             Innovative Developer with good handson professional experience in building scalable web applications with responsive user friendly UI.
             </p>
           </div>
         </div>
@@ -112,7 +112,7 @@ function Portfolio() {
         <div className="tab-content">
           <h2 className="tab-title">Work Experience</h2>
           <p className="tab-text">
-            <b> Full Stack Developer (JUN 2022 - OCT 2022) </b>  <br />
+            <b> Full Stack Developer (JUN 2022 - Present) </b>  <br />
             Sodio Technologies Pvt Ltd    <br /> <br />
 
             <b>Front End Developer Intern (FEB 2022 - MAY 2022) </b> <br />
@@ -124,14 +124,21 @@ function Portfolio() {
         <div className="tab-content">
           <h2 className="tab-title">Projects</h2>
           <p className="tab-text">
-            <b> RENTAL HUB APP </b>  <br />
-            Rental Hub app<br /> <br />
-            <b>  SHOOTING GAME  </b>  <br />
-            2 player shooting game using javascript    <br /> <br />
-            <b> Landing Pages </b>  <br />
-            Responsive landing pages using Reactjs    <br /> <br />
-            <b> Block Chain Applications </b>  <br />
-            Web apps on block chain   <br /> <br />
+            <b> Fantazy </b>  <br />
+            <ul>
+            <li> Developed landing pages and admin dashboard using React js. </li>
+            <li> Assisted in creating the scalable web app on Fantazy web app. </li>
+            </ul>
+           .<br /> <br />
+            <b>  Superbolter  </b>  <br />
+            <ul>
+            <li>Worked on superbolter web application creating and implementing new features.</li>
+            <li>Created multiple landing pages for the branding.</li>
+            </ul>
+            <br /> <br />
+            <b> Rental Hub </b>  <br />
+           <li> The app allows the user to select and rent a car for required time and date</li>  
+           <li>Also shows important tourist destinations.</li>
           </p>
         </div>
       )}
@@ -139,7 +146,7 @@ function Portfolio() {
         <div className="tab-content">
           <h2 className="tab-title">Skils</h2>
           <p className="tab-text">
-            HTML, CSS, JAVASCRIPT, REACTJS, NODEJS(BASICS),  MANUAL TESTING
+            HTML, CSS, JAVASCRIPT, REACTJS, NODEJS,  MANUAL TESTING,  JAVA
           </p>
         </div>
       )}
@@ -149,7 +156,6 @@ function Portfolio() {
           <h2 className="tab-title">Resume</h2>
           <p className="tab-text-1">
             <button className='resume-button'>
-              <a href='https://drive.google.com/file/d/1gHcBwzW36oomytFqbhFv9b4gpEJGr1-w/view?usp=share_link' style={{ textDecoration: "none", color: "white" }} target="_blank">Open Resume </a>
             </button>
           </p>
         </div>
